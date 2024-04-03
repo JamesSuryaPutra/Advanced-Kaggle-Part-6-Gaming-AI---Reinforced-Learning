@@ -1,10 +1,7 @@
-March 15th, 2024
-Advanced Kaggle
--6th Course: Gaming AI & Reinforcement Learning-
-
-=======================
+Date: March 15th, 2024
 User: James Surya Putra
-=======================
+
+# Advanced Kaggle: 6th Course - Gaming AI & Reinforcement Learning
 
 DISCLAIMER:
 - All tutorials and exercises are taken, including questions, submissions, hints, and solutions.
